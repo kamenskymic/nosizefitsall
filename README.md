@@ -2,7 +2,7 @@
 
 The slide deck from the talk is here:
 
-[No Size Fits All - NDC Security.pdf](main/for%20publishing%20No%20Size%20Fits%20All%20Empowering%20Engineers%20with%20Custom%20Application%20Security%20tests.pdf)
+[No Size Fits All - NDC Security.pdf](main/No Size Fits All - NDC Security.pdf)
 
 ### Code Examples
 
