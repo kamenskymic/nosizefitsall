@@ -1,5 +1,5 @@
 rules:
-  - id: py_ex3_unsanitized_input
+  - id: py_ex2_unsanitized_input
     mode: taint
     pattern-sources:
       - pattern: input(...)
