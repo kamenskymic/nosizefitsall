@@ -1,5 +1,5 @@
 rules:
-  - id: py_ex4_vulnerable_library
+  - id: py_ex3_vulnerable_library
     mode: taint
     pattern-sources:
       - pattern: py7zr.$FUNC(...)
