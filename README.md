@@ -2,7 +2,7 @@
 
 The slide deck from the talk is here:
 
-[No Size Fits All - NDC Security.pdf](main/No Size Fits All - NDC Security.pdf)
+[No Size Fits All - NDC Security.pdf](No Size Fits All - NDC Security.pdf)
 
 ### Code Examples
 
